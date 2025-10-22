@@ -32,6 +32,7 @@ project/
 ├── index.html
 ├── css/
 │ └── style.css
+  └── normalize.css
 ├── js/
 │ └── script.js
 └── img/
