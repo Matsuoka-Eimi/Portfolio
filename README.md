@@ -5,7 +5,7 @@
 設計・デザイン・コーディングまでを担当
 
 ## 🔧 使用技術
-- HTML5 / CSS3 
+- HTML5 / CSS3 /jQuery
 - Adobe Illustrator/ Adobe Photoshop / Figma（デザイン制作）
 
 ## 💡 工夫した点
