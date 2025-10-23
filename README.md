@@ -27,7 +27,7 @@
 - 公開サイト:[https://portmind.web.fc2.com/Portfolio_MatsuokaEimi_R03.pdf]
 - 制作した架空のカフェサイト:[https://portmind.web.fc2.com/cafe/index.html]
 - 制作した趣味の観光サイト:[https://portmind.web.fc2.com/mind-travel/index.html]
-- GitHub: [https://github.com/Matsuoka-Eimi/Portfolio/tree/local]
+- GitHub:[https://github.com/Matsuoka-Eimi/Portfolio/tree/local]
 
 ## 📂 Webサイトのディレクトリ構成
 <pre>
