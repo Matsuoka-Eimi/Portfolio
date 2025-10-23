@@ -6,7 +6,7 @@
 
 ## 🔧 使用技術
 - HTML5 / CSS3 
-- Illustrator/ Photoshop / Figma（デザイン制作）
+- Adobe Illustrator/ Adobe Photoshop / Figma（デザイン制作）
 
 ## 💡 工夫した点
 - 写真に触れるとhoverとカーソルが付与
@@ -15,7 +15,9 @@
 - 色を使いすぎず、ユーザーに見やすい作品を意識
 
 ## 📱 対応デバイス
-- PC / Tablet / Smartphone（レスポンシブ対応）
+- PC（Windows / macOS / Linux）
+- スマートフォン（iOS / Android）
+- タブレット（iPad / Android Tablet）
 
 ## 🖼️ デザイン
 - デザインカンプ: Figma  
@@ -28,18 +30,20 @@
 - GitHub: [https://github.com/Matsuoka-Eimi/Portfolio]
 
 ## 📂 Webサイトのディレクトリ構成
-project/
-├── index.html
-├── css/
-│ └── style.css
-  └── normalize.css
-├── js/
-│ └── script.js
-└── img/
+<pre>
+  project/
+    ├──  index.html
+    ├──  css/
+    │     └── style.css
+    ├──  normalize.css
+    ├──  js/
+    │     └── script.js
+    └──  img/
+</pre>
 
 ## 🙌 担当範囲
 - デザイン（Figma）
-- コーディング（HTML/CSS/JS）
+- コーディング（HTML/CSS）
 - 画像素材の作成・最適化
 
 ## ⚙️ 今後の改善点
